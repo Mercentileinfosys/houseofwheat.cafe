@@ -76,7 +76,7 @@ const Testimonials = () => {
             </div>
 
             <p className="text-cream/90 text-lg md:text-xl leading-relaxed text-center mb-8 italic">
-              "{testimonials[currentIndex].text}"
+              &quot;{testimonials[currentIndex].text}&quot;
             </p>
 
             <div className="flex justify-center mb-6">
