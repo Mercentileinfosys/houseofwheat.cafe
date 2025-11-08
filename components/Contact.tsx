@@ -59,7 +59,7 @@ const Contact = () => {
             Contact Us
           </h2>
           <p className="text-cream/70 max-w-2xl mx-auto">
-            Have questions or want to reserve a table? We'd love to hear from you!
+            Have questions or want to reserve a table? We&apos;d love to hear from you!
           </p>
         </motion.div>
 
