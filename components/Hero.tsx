@@ -88,7 +88,7 @@ const Hero = () => {
             transition={{ delay: 0.7, duration: 0.8 }}
             className="text-lg md:text-xl text-cream/80 mb-8 leading-relaxed"
           >
-            Cheras' favorite destination for fresh bakes, artisan coffee, and warm memories.
+            Cheras&apos; favorite destination for fresh bakes, artisan coffee, and warm memories.
           </motion.p>
           
           <motion.div
