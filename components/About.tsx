@@ -75,13 +75,13 @@ const About = () => {
               className="space-y-4 text-cream/80 leading-relaxed"
             >
               <p>
-                At House of Wheat Café, we believe that every cup of coffee tells a story. Located in the heart of Cheras, we've been serving the community with premium artisan coffee and freshly baked goods for over a decade.
+                At House of Wheat Café, we believe that every cup of coffee tells a story. Located in the heart of Cheras, we&apos;ve been serving the community with premium artisan coffee and freshly baked goods for over a decade.
               </p>
               <p>
                 Our passion lies in sourcing the finest beans from around the world and roasting them to perfection. Each beverage is crafted by our skilled baristas who bring years of expertise and genuine care to every cup.
               </p>
               <p>
-                From our signature espresso blends to our handcrafted pastries baked fresh daily, we're committed to delivering an exceptional experience that keeps our customers coming back for more. We're not just a café – we're a community hub where memories are made over great coffee.
+                From our signature espresso blends to our handcrafted pastries baked fresh daily, we&apos;re committed to delivering an exceptional experience that keeps our customers coming back for more. We&apos;re not just a café – we&apos;re a community hub where memories are made over great coffee.
               </p>
             </motion.div>
 
